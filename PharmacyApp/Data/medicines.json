@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "fdffb335-ddcf-456d-8850-706348bc7a33",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Common pain reliever and fever reducer",
+    "ExpiryDate": "2026-10-29T05:41:48.4602232Z",
+    "Quantity": 116,
+    "Price": 5.99,
+    "Brand": "HealthCare Plus",
+    "CreatedAt": "2026-05-02T05:41:48.4606851Z"
+  },
+  {
+    "Id": "ae5693b5-c133-4d93-a1c7-b58a9d0380aa",
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic for bacterial infections",
+    "ExpiryDate": "2026-05-27T05:41:48.4607866Z",
+    "Quantity": 45,
+    "Price": 12.50,
+    "Brand": "MediCore",
+    "CreatedAt": "2026-05-02T05:41:48.460788Z"
+  },
+  {
+    "Id": "92e9f959-5a32-47ae-9110-94680d883902",
+    "FullName": "Ibuprofen 400mg",
+    "Notes": "Anti-inflammatory pain reliever",
+    "ExpiryDate": "2026-07-31T05:41:48.4607894Z",
+    "Quantity": 8,
+    "Price": 7.25,
+    "Brand": "PharmaCo",
+    "CreatedAt": "2026-05-02T05:41:48.4607897Z"
+  },
+  {
+    "Id": "7b6e92bf-8b23-413d-b453-0a055afee881",
+    "FullName": "Metformin 500mg",
+    "Notes": "Used to treat type 2 diabetes",
+    "ExpiryDate": "2027-05-02T05:41:48.4607914Z",
+    "Quantity": 200,
+    "Price": 9.99,
+    "Brand": "DiabeCare",
+    "CreatedAt": "2026-05-02T05:41:48.4607917Z"
+  },
+  {
+    "Id": "10119382-5c42-47ed-96e1-31b7267a92ba",
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Antihistamine for allergy relief",
+    "ExpiryDate": "2026-05-17T05:41:48.4608003Z",
+    "Quantity": 5,
+    "Price": 4.75,
+    "Brand": "AllerFree",
+    "CreatedAt": "2026-05-02T05:41:48.4608006Z"
+  },
+  {
+    "Id": "b3cdc0c6-5156-4006-bf62-7adc084d16c9",
+    "FullName": "Trioxalen 25mg",
+    "Notes": "skin issues",
+    "ExpiryDate": "2030-09-27T00:00:00Z",
+    "Quantity": 200,
+    "Price": 10,
+    "Brand": "KVP",
+    "CreatedAt": "2026-05-02T07:49:19.9523742Z"
+  }
+]

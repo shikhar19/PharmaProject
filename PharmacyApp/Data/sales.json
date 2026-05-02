@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "493287aa-1c88-48c2-a7d9-2afc8fa954fb",
+    "MedicineId": "fdffb335-ddcf-456d-8850-706348bc7a33",
+    "MedicineName": "Paracetamol 500mg",
+    "QuantitySold": 34,
+    "PricePerUnit": 5.99,
+    "TotalAmount": 203.66,
+    "SaleDate": "2026-05-02T05:44:24.7959541Z",
+    "CustomerName": "Shikhar"
+  }
+]
